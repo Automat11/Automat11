@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="22076" started-at="2021-10-27T17:10:50Z" finished-at="2021-10-27T17:11:12Z">
+  <suite name="Default suite" duration-ms="12296" started-at="2021-10-27T17:43:05Z" finished-at="2021-10-27T17:43:17Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="22076" started-at="2021-10-27T17:10:50Z" finished-at="2021-10-27T17:11:12Z">
+    <test name="Default test" duration-ms="12296" started-at="2021-10-27T17:43:05Z" finished-at="2021-10-27T17:43:17Z">
       <class name="src.test.java.TestFirst">
-        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:src.test.java.TestFirst@5e5792a0]" name="invokeBrowser" is-config="true" duration-ms="3455" started-at="2021-10-27T19:10:50Z" finished-at="2021-10-27T19:10:53Z">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:src.test.java.TestFirst@5e5792a0]" name="invokeBrowser" is-config="true" duration-ms="3488" started-at="2021-10-27T19:43:05Z" finished-at="2021-10-27T19:43:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invokeBrowser -->
-        <test-method status="PASS" signature="getTitleTest()[pri:0, instance:src.test.java.TestFirst@5e5792a0]" name="getTitleTest" duration-ms="18005" started-at="2021-10-27T19:10:53Z" finished-at="2021-10-27T19:11:11Z">
+        <test-method status="PASS" signature="getTitleTest()[pri:0, instance:src.test.java.TestFirst@5e5792a0]" name="getTitleTest" duration-ms="8204" started-at="2021-10-27T19:43:08Z" finished-at="2021-10-27T19:43:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:src.test.java.TestFirst@5e5792a0]" name="tearDown" is-config="true" duration-ms="600" started-at="2021-10-27T19:11:11Z" finished-at="2021-10-27T19:11:12Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:src.test.java.TestFirst@5e5792a0]" name="tearDown" is-config="true" duration-ms="591" started-at="2021-10-27T19:43:16Z" finished-at="2021-10-27T19:43:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

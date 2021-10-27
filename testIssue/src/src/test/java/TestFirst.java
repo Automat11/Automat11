@@ -27,7 +27,6 @@ public class TestFirst extends TestBaseR {
 		
 		
 		
-		Thread.sleep(10000);
 		
 	}
 }
